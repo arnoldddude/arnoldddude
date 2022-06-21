@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arnoldddude
 - 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me arno9st@gmail.com
+- 📫 How to reach me arno9st@yahoo.com
 
 <!---
 arnoldddude/arnoldddude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
